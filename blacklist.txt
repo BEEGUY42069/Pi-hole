@@ -200,3 +200,12 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 youtube-nocookie.com
 yumenetworks.com
+activation.acronis.com
+web-api-tih.acronis.com
+web-api-tie.acronis.com
+web-api-vmp.acronis.com
+cloud-rs-us2.acronis.com
+cloud-fes-us2.acronis.com
+cloud-rs-us1.acronis.com
+cloud-fes-us1.acronis.com
+rpc.acronics.com
